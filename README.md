@@ -1,2 +1,3 @@
 # hello_world
-Get start in github.
+Hello, everyone.
+It's the day to change myself.
